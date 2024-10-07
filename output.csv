@@ -1,0 +1,2 @@
+findItemsByKeywordsResponse
+"{'ack': ['Success'], 'version': ['1.13.0'], 'timestamp': ['2024-09-13T09:21:49.442Z'], 'searchResult': [{'@count': '0'}], 'paginationOutput': [{'pageNumber': ['1'], 'entriesPerPage': ['100'], 'totalPages': ['14'], 'totalEntries': ['1394']}], 'itemSearchURL': ['https://shop.sandbox.ebay.com/i.html?_nkw=Shoe&_ddo=1&_ipg=100&_pgn=1']}"
